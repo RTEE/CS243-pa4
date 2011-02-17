@@ -1,0 +1,1 @@
+java -cp /home/arti/Desktop/243/optimize/lib/jwutil.jar:/home/arti/Desktop/243/optimize/lib/optimize.jar:/home/arti/Desktop/243/optimize/lib/javabdd-1.0b2.jar:/home/arti/Desktop/243/optimize/lib/test.jar:/home/arti/Desktop/243/optimize/lib/joeq.jar $@
